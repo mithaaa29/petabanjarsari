@@ -1,0 +1,1 @@
+var json_Puskesmass_21 = {"type":"FeatureCollection","name":"Puskesmass_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"_ID":"1"},"geometry":{"type":"Point","coordinates":[109.322411119937897,-7.443791786285722]}}]}
